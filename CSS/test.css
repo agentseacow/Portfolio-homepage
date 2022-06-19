@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    font-family:'Barlow', sans-serif;
+}
+
+header{
+    background-color: #F0E68C;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+header h1{
+    color: #BDB76B;
+    font-family: 'Permanent Marker', cursive;
+    
+}
+
+header p{
+    color: #BDB76B;
+}
+header img{
+    border-radius: 150px;
+    width: 300px;
+    padding: 20px;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+main img{
+max-width: 100%;
+}
