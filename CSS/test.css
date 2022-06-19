@@ -7,12 +7,14 @@ header{
     background-color: #F0E68C;
     text-align: center;
     padding-top: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
 }
 
 header h1{
     color: #BDB76B;
     font-family: 'Permanent Marker', cursive;
+    font-size: 60px;
+    margin-top: 0;
     
 }
 
@@ -22,7 +24,8 @@ header p{
 header img{
     border-radius: 150px;
     width: 300px;
-    padding: 20px;
+    
+    
 }
 
 main{
@@ -32,4 +35,36 @@ main{
 
 main img{
 max-width: 100%;
+}
+
+a{
+    color: #2E8B57;
+    font-family:'Barlow', sans-serif;
+    
+}
+
+a:hover{
+    color: #6B8E23;
+}
+
+footer{
+    background-color: #2E8B57;
+    text-align: center;
+    color:#BDB76B;
+    padding:50px;
+}
+img.projects{
+    
+}
+
+.menu{
+    padding: 10px;
+    border-radius: 40px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 600;
+    display: block;
+    width: 100px;
+    margin: auto;
+    
 }
